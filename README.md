@@ -98,21 +98,13 @@ By the end of this repository, you will be able to:
 49. GitHub Integration Issues
 50. Pipeline Troubleshooting
 
-## Real-Time DevOps Projects
-
-51. Java Application CI/CD Pipeline
-52. Docker CI/CD Pipeline
-53. Kubernetes CI/CD Pipeline
-54. AWS Deployment Pipeline
-55. End-to-End DevOps Project
-
 ## Interview Preparation
 
-56. Jenkins Interview Questions
-57. Scenario-Based Questions
-58. Troubleshooting Scenarios
-59. Production Support Questions
-60. DevOps Engineer Interview Guide
+51. Jenkins Interview Questions
+52. Scenario-Based Questions
+53. Troubleshooting Scenarios
+54. Production Support Questions
+55. DevOps Engineer Interview Guide
 
 ---
 
